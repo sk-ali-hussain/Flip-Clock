@@ -18,7 +18,7 @@ A responsive digital flip clock with smooth CSS animations, 3D effects, and inte
 
 ## Live Demo
 
-You can view a live demo of the clock here: [Digital Flip Clock Demo](https://sk-ali-hussain.github.io/digital-flip-clock/)
+You can view a live demo of the clock here: [Digital Flip Clock Demo](https://sk-ali-hussain.github.io/flip-Clock/)
 
 ## Technologies Used
 
@@ -32,7 +32,7 @@ You can view a live demo of the clock here: [Digital Flip Clock Demo](https://sk
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/digital-flip-clock.git
+   git clone https://github.com/your-username/Flip-Clock.git
    ```
 2. Open `index.html` in your browser
 3. Enjoy the beautiful flip clock!
