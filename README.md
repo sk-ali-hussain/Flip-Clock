@@ -32,7 +32,7 @@ You can view a live demo of the clock here: [Digital Flip Clock Demo](https://sk
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/Flip-Clock.git
+   git clone https://sk-ali-hussain/Flip-Clock.git
    ```
 2. Open `index.html` in your browser
 3. Enjoy the beautiful flip clock!
